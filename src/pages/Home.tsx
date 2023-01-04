@@ -13,7 +13,7 @@ const Home = () => {
 
 
     return (
-        <main>
+        <main className='container'>
             <div>
               <h2>Search User</h2>
               <input 
